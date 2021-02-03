@@ -1,8 +1,0 @@
-MIDlet-1: Midlet, , mobileapplication10.Midlet
-MIDlet-Jar-Size: 2676
-MIDlet-Jar-URL: MobileApplication10.jar
-MIDlet-Name: MobileApplication10
-MIDlet-Vendor: Vendor
-MIDlet-Version: 1.0
-MicroEdition-Configuration: CLDC-1.1
-MicroEdition-Profile: MIDP-2.1
